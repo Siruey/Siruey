@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Siruey/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Siruey/azure-network-protocols)
-  - [Creating Virtual Networks](https://github.com/Siruey/virtual-machines)
+  - [Creating Virtual Machines](https://github.com/Siruey/virtual-machines)
 
 <h2>🤳Connect with me:</h2>
 
