@@ -12,6 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Yeuris | LinkedIn" width="22px" src="https://www.linkedin.com/in/yeuris/" />][linkedin]
+[<img align="left" alt="Yeuris | LinkedIn" width="22px"/>][linkedin]
 
 [linkedin]:(https://www.linkedin.com/in/yeuris/)https://www.linkedin.com/in/yeuris/
