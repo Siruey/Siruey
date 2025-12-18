@@ -10,7 +10,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Siruey/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Siruey/azure-network-protocols)
   - [Creating Virtual Machines](https://github.com/Siruey/virtual-machines)
-<h2>Network Engineering Journey: From Zero too Now</h2>
 
 -<b>Packet Tracer: Building a Network</b>
 
